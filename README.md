@@ -16,3 +16,25 @@ npm start
 ```
 
 Para o correto funcionamento dessa aplicação, é preciso rodar o [backend](https://github.com/lfzaltron/omnistack11_backend).
+
+
+### Prints:
+
+#### Logon
+
+![](/prints/logon.png)
+
+
+#### Cadastro de ONG
+
+![](/prints/cadastro_ong.png)
+
+
+#### Cadastro de Casos
+
+![](/prints/cadastro_caso.png)
+
+
+#### Home da ONG
+
+![](/prints/profile.png)
